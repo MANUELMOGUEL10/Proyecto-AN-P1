@@ -1,0 +1,15 @@
+C:\Users\mogue\source\repos\Equipo2\Equipo2\bin\Debug\net6.0\Equipo2.exe
+C:\Users\mogue\source\repos\Equipo2\Equipo2\bin\Debug\net6.0\Equipo2.deps.json
+C:\Users\mogue\source\repos\Equipo2\Equipo2\bin\Debug\net6.0\Equipo2.runtimeconfig.json
+C:\Users\mogue\source\repos\Equipo2\Equipo2\bin\Debug\net6.0\Equipo2.dll
+C:\Users\mogue\source\repos\Equipo2\Equipo2\bin\Debug\net6.0\Equipo2.pdb
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.csproj.AssemblyReference.cache
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.AssemblyInfoInputs.cache
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.AssemblyInfo.cs
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.csproj.CoreCompileInputs.cache
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.dll
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\refint\Equipo2.dll
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.pdb
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\Equipo2.genruntimeconfig.cache
+C:\Users\mogue\source\repos\Equipo2\Equipo2\obj\Debug\net6.0\ref\Equipo2.dll

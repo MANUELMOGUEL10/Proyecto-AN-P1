@@ -1,0 +1,11 @@
+C:\Users\mogue\source\repos\interpolacion\interpolacion\bin\Debug\interpolacion.exe.config
+C:\Users\mogue\source\repos\interpolacion\interpolacion\bin\Debug\interpolacion.exe
+C:\Users\mogue\source\repos\interpolacion\interpolacion\bin\Debug\interpolacion.pdb
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.csproj.AssemblyReference.cache
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.Form1.resources
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.Properties.Resources.resources
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.csproj.GenerateResource.cache
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.csproj.CoreCompileInputs.cache
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.exe
+C:\Users\mogue\source\repos\interpolacion\interpolacion\obj\Debug\interpolacion.pdb
